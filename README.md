@@ -7,7 +7,7 @@
 ## 😀 
 Discord: [swasd#7545](https://discord.com/users/704567920822452254)   
 Telegram: [@swasd0](https://t.me/swasd0)   
-Email: [custoomnpc@gmail.com](mailto:custoomnpc@gmail.com)
+Email: [swasd@swasd.net](mailto:swasd@swasd.net)
 
 
 ## 📊 Stats
