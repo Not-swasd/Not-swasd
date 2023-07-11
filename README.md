@@ -7,7 +7,7 @@
 ## 😀 
 Discord: [swasd](https://discord.com/users/747589259992760422)   
 Telegram: [@swasd0](https://t.me/swasd0)   
-Email: [swasd@swasd.net](mailto:swasd@swasd.net)
+Email: [swasd@swasd.net](mailto:swasd@swasd.net)<br>
 Donate: [swasd0](https://tossid.swasd.net)
 
 ## 📊 Stats
