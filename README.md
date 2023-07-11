@@ -5,10 +5,10 @@
 [![View](https://komarev.com/ghpvc/?username=Not-swasd&style=flat-square)](https://github.com/Not-swasd)<br>
 
 ## 😀 
-Discord: [swasd#7545](https://discord.com/users/704567920822452254)   
+Discord: [swasd](https://discord.com/users/747589259992760422)   
 Telegram: [@swasd0](https://t.me/swasd0)   
 Email: [swasd@swasd.net](mailto:swasd@swasd.net)
-
+Donate: [swasd0](https://tossid.swasd.net)
 
 ## 📊 Stats
 [![swasd's github stats](https://github-readme-stats.vercel.app/api?username=Not-swasd&show_icons=true&theme=dracula)](https://github.com/Not-swasd)
