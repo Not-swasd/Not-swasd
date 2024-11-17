@@ -8,7 +8,7 @@
 Discord: [swasd](https://discord.com/users/1144671420547350620)   
 Telegram: [@swasd0](https://t.me/swasd0)   
 Email: [swasd@swasd.net](mailto:swasd@swasd.net)<br>
-Donate: [swasd0](https://tossid.swasd.net)
+Donate: [Buy me a coffe](https://buymeacoffee.com/swasd)
 
 ## 📊 Stats
 [![swasd's github stats](https://github-readme-stats.vercel.app/api?username=Not-swasd&show_icons=true&theme=dracula)](https://github.com/Not-swasd)
